@@ -1,1 +1,6 @@
+# Import Modules
+import os
+import gdal
+
+
 #Read in GeoTIFF
