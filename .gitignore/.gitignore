@@ -1,6 +1,13 @@
 # Import Modules
 import os
 import gdal
-
+import osgeo import gdal
 
 #Read in GeoTIFF
+
+
+
+
+#from osgeo import gdal
+#gtif = gdal.Open( "INPUT.tif" )
+#print gtif.GetMetadata()
